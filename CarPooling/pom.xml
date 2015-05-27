@@ -9,6 +9,12 @@
   
   <modules>
     <module>BusinessServiceEngine</module>
+    <module>WebEngine</module>
+    <module>InteractionEngine</module>
+    <module>GoogleMapsEngine</module>
+    <module>DataAccessEngine</module>
+    <module>OAM</module>
+    <module>Common</module>
   </modules>
   
   <build>
