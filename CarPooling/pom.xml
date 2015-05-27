@@ -7,6 +7,8 @@
   <packaging>pom</packaging>
   <name>CarPooling</name>
   
+  <!-- Children maven modules -->
+  
   <modules>
     <module>BusinessServiceEngine</module>
     <module>WebEngine</module>
